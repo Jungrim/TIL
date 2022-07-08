@@ -2,4 +2,4 @@
 
 ## Git & Github
 
-commit 취소
+### git의 의미
